@@ -20,9 +20,9 @@ This project analyses retail sales performance across three East African markets
 
 The dashboard is a single canvas divided into four sections, each answering one question:
 
-* Revenue → How much did we make, and where did it come from? 
-* Product → What are we selling and where is the value gap? 
-* Seasonality → When do we peak, when do we drop, and what patterns exist? 
+* Revenue → How much did the company make, and where did it come from? 
+* Product → What are the company selling and where is the value gap? 
+* Seasonality → When does the company peak, when do they drop, and what patterns exist? 
 * Store → Which stores are driving performance and why? 
 
 ---
