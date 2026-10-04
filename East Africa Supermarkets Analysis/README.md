@@ -91,7 +91,7 @@ Dairy and Personal Care show the opposite: moderate volume, strong revenue, indi
 
 ---
 
-## Seasonal Analysis
+## Time Series Analysis (Seasonality)
 
 >*MoM % Change Bar Chart — Red/Green*
 <img src="Images/image-4.png" width="450"/>
@@ -104,7 +104,7 @@ Month-over-month trends show recurring fluctuations rather than a sustained traj
 
 **Decision point:** The July spike needs to be understood before it can be replicated. If revenue drivers are clear, the same approach should be applied to least performers. If the cause is unknown, that is a data gap that needs closing.
 
-**Weekday vs weekend:** Weekdays generate 2.6× more revenue than weekends and a 6% higher average order value. Tuesday is the strongest single trading day. The weekend revenue gap represents a material untapped opportunity.
+**Weekday vs weekend:** Weekdays generate 2.6× more total revenue than weekends, but they also have about 2.5× more trading days (262 weekdays against 104 weekend days in 2024). Revenue per trading day is therefore almost the same on both. Average order value is 6% higher on weekdays, and Tuesday is the strongest single trading day.
 
 ---
 
